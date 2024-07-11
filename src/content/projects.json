@@ -1,0 +1,36 @@
+{
+    "projects": [
+        {
+            "name": "Certificate Record System",
+            "imgURLS": [
+                "./projectImg/bfpsystem/bfpsys_1.png",
+                "./projectImg/bfpsystem/bfpsys_2.png",
+                "./projectImg/bfpsystem/bfpsys_3.png"
+            ],
+            "description": "Manages records of certificates issued for a specific business and provides functionality to print these certificates. It maintains a comprehensive database of all issued certificates, including details such as certificate ID, issuance date, recipient information, and the purpose of the certificate.",
+            "tools": [
+                "Laravel",
+                "PHP",
+                "MySQL"
+            ],
+            "sourceCode": "Private"
+        },
+        {
+            "name": "PhotoVideography Appointment",
+            "imgURLS": [
+                "./projectImg/pvsys/pvsys_1.png",
+                "./projectImg/pvsys/pvsys_2.png",
+                "./projectImg/pvsys/pvsys_3.png",
+                "./projectImg/pvsys/pvsys_4.png",
+                "./projectImg/pvsys/pvsys_5.png"
+            ],
+            "description": "An appointment management system designed for photographers and videographers, including a robust admin interface. This system allows admins to manage client appointments efficiently, ensuring streamlined operations and improved client service.",
+            "tools": [
+                "Laravel",
+                "PHP",
+                "SQLite"
+            ],
+            "sourceCode": "https://github.com/nori42/pvsys"
+        }
+    ]
+}

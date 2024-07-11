@@ -1,0 +1,1 @@
+export const MIN_PAGE_CONTENT_HEIGHT = 520;

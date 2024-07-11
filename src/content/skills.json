@@ -1,0 +1,117 @@
+[
+    {
+        "label": "Programming Languages",
+        "skills": [
+            {
+                "skill": "Javascript",
+                "isBeginner": false
+            },
+            {
+                "skill": "Typescript",
+                "isBeginner": false
+            },
+            {
+                "skill": "HTML",
+                "isBeginner": false
+            },
+            {
+                "skill": "CSS",
+                "isBeginner": false
+            },
+            {
+                "skill": "PHP",
+                "isBeginner": false
+            },
+            {
+                "skill": "C#",
+                "isBeginner": false
+            },
+            {
+                "skill": "MySQL",
+                "isBeginner": false
+            },
+            {
+                "skill": "SQL Server",
+                "isBeginner": false
+            },
+            {
+                "skill": "PostgreSQL",
+                "isBeginner": true
+            },
+            {
+                "skill": "Python",
+                "isBeginner": true
+            },
+            {
+                "skill": "C",
+                "isBeginner": true
+            }
+        ]
+    },
+    {
+        "label": "Libraries & Frameworks",
+        "skills": [
+            {
+                "skill": "NodeJS",
+                "isBeginner": false
+            },
+            {
+                "skill": "Express",
+                "isBeginner": false
+            },
+            {
+                "skill": "React",
+                "isBeginner": false
+            },
+            {
+                "skill": "Tailwind CSS",
+                "isBeginner": false
+            },
+            {
+                "skill": "Bootstrap",
+                "isBeginner": false
+            },
+            {
+                "skill": "Codeigniter",
+                "isBeginner": false
+            },
+            {
+                "skill": "Laravel",
+                "isBeginner": false
+            },
+            {
+                "skill": "React Native",
+                "isBeginner": false
+            }
+        ]
+    },
+    {
+        "label": "Tools & Platform",
+        "skills": [
+            {
+                "skill": "Git",
+                "isBeginner": false
+            },
+            {
+                "skill": "GitHub",
+                "isBeginner": false
+            },
+            {
+                "skill": "Postman",
+                "isBeginner": false
+            },
+            {
+                "skill": "Figma",
+                "isBeginner": false
+            },
+            {
+                "skill": "Docker",
+                "isBeginner": true
+            },
+            {
+                "skill": "Amazon Web Service (EC2)",
+                "isBeginner": true
+            }
+        ]
+    }
+]

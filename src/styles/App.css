@@ -1,0 +1,28 @@
+/* Import Colors */
+@import url('./colors.css');
+
+main {
+  max-width: 1230px;
+  margin: 0 auto;
+}
+
+.logo {
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 15px var(--accent-light));
+}
+
+.skill-pill {
+  will-change: filter;
+  transition: filter 300ms;
+}
+
+.skill-pill:hover {
+  filter: drop-shadow(0 0 15px var(--accent-light));
+}
+
+.flashlight {
+  filter: drop-shadow(0 0 8px var(--accent-light));
+}
