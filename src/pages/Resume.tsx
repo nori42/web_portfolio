@@ -7,7 +7,7 @@ function Resume() {
                 <span>Download</span>
                 <img src={downloadIcon} alt="download icon" className="ml-3 size-4 md:size-6" />
             </a>
-            <img src="./resume.jpg" alt="resume" className="my-4" />
+            <img src="./resume.jpg" alt="resume" className="my-4 border border-primary" />
         </div>
      );
 }
