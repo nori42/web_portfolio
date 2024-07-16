@@ -32,6 +32,12 @@
 
 html {
   scroll-behavior: smooth;
+  scroll-snap-type: y mandatory;
+}
+
+section {
+  scroll-snap-align: start;
+  scroll-snap-stop: always;
 }
 
 /* Set Default margin for paragraph */

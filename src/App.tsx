@@ -27,11 +27,8 @@ function App() {
       {/* Mouse Light */}
       <MouseLight/>
       <main>
-
-          {/* <div className='fixed z-10 w-screen h-screen bg-black'></div> */}
-
-          {/* Header */}
-          <Header/>
+        {/* Header */}
+        <Header/>
 
         <div className="flex">
             {/* Page Content */}
@@ -78,7 +75,7 @@ function App() {
                   </div>
                 </div>
             </div>
-          </div>
+        </div>
       </main>
     </>
   )
