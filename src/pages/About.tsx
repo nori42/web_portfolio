@@ -3,10 +3,10 @@ import content from "../content/about.json";
 import { v4 as uuidv4 } from "uuid";
 
 type ContentWrapperProps = {
-    children:ReactNode;
+    children: ReactNode;
 }
 
-function ContentWrapper ({children}:ContentWrapperProps){
+function ContentWrapper({ children }: ContentWrapperProps) {
     return (
         <div className="my-8 text-center text-[10px] sm:text-base sm:text-start">
             {children}
@@ -15,12 +15,12 @@ function ContentWrapper ({children}:ContentWrapperProps){
 }
 
 function About() {
-    return ( 
+    return (
         <div>
             {
-                content.map((item:string | Array<string>) => {
-                    
-                    if(Array.isArray(item)) {
+                content.map((item: string | Array<string>) => {
+
+                    if (Array.isArray(item)) {
                         return (
                             <ContentWrapper key={uuidv4()}>
                                 {item.map(itemArr => <p key={uuidv4()}>{itemArr}</p>)}
@@ -36,7 +36,7 @@ function About() {
                 })
             }
         </div>
-     );
+    );
 }
 
 export default About;

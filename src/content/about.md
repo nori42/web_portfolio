@@ -1,0 +1,18 @@
+I have a degree in Bachelor of Science in Information Technology.
+
+
+
+I graduated on May 2024 in Asian College of Technology.
+
+
+
+I am an aspiring web developer with a passion for building full stack web applications using a range of technologies. I have hands-on  experience developing a local web application to manage certificate  records for a Government Agency. Additionally, I created a mobile Point of Sale System for a Bakery Business as a project for one of my 
+courses.
+
+
+
+I am eager to apply my skills and knowledge to new and challenging opportunities in web development.
+
+
+
+I have interest on game development and learning to build low level systems such as Drivers, OS, Kernel, and etc. using C/C++.

@@ -11,14 +11,6 @@
                 "isBeginner": false
             },
             {
-                "skill": "HTML",
-                "isBeginner": false
-            },
-            {
-                "skill": "CSS",
-                "isBeginner": false
-            },
-            {
                 "skill": "PHP",
                 "isBeginner": false
             },
@@ -27,23 +19,15 @@
                 "isBeginner": false
             },
             {
-                "skill": "MySQL",
-                "isBeginner": false
-            },
-            {
-                "skill": "SQL Server",
-                "isBeginner": false
-            },
-            {
-                "skill": "PostgreSQL",
-                "isBeginner": true
-            },
-            {
-                "skill": "Python",
+                "skill": "SQL",
                 "isBeginner": true
             },
             {
                 "skill": "C",
+                "isBeginner": true
+            },
+            {
+                "skill": "Python",
                 "isBeginner": true
             }
         ]
@@ -51,8 +35,9 @@
     {
         "label": "Libraries & Frameworks",
         "skills": [
+            
             {
-                "skill": "NodeJS",
+                "skill": "Hono",
                 "isBeginner": false
             },
             {
@@ -65,10 +50,6 @@
             },
             {
                 "skill": "Tailwind CSS",
-                "isBeginner": false
-            },
-            {
-                "skill": "Bootstrap",
                 "isBeginner": false
             },
             {
@@ -89,15 +70,27 @@
         "label": "Tools & Platform",
         "skills": [
             {
+                "skill": "NodeJS/Deno",
+                "isBeginner": false
+            },
+            {
+                "skill": "PostgreSQL",
+                "isBeginner": false
+            },
+            {
+                "skill": "Couchdb",
+                "isBeginner": false
+            },
+            {
+                "skill": "MySQL",
+                "isBeginner": false
+            },
+            {
                 "skill": "Git",
                 "isBeginner": false
             },
             {
                 "skill": "GitHub",
-                "isBeginner": false
-            },
-            {
-                "skill": "Postman",
                 "isBeginner": false
             },
             {
@@ -109,9 +102,42 @@
                 "isBeginner": true
             },
             {
+                "skill": "Xano",
+                "isBeginner": true
+            },
+            {
+                "skill": "Bubble",
+                "isBeginner": true
+            },
+            {
+                "skill": "Azure Foundry",
+                "isBeginner": true
+            },
+            {
+                "skill": "GCP Vertex",
+                "isBeginner": true
+            },
+            {
+                "skill": "AWS Bedrock",
+                "isBeginner": true
+            },
+            {
                 "skill": "Amazon Web Service (EC2)",
                 "isBeginner": true
             }
         ]
-    }
+    },
+    {
+        "label":"Software Design",
+        "skills":[
+            {
+                "skill":"Domain Driven Design",
+                "isBeginner":true
+            },
+            {
+                "skill":"Clean Architecture",
+                "isBeginner":true
+            }
+        ]
+    } 
 ]

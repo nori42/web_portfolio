@@ -1,14 +1,20 @@
 [
     {
+        "position": "Web Developer",
+        "company": "Freelance",
+        "date": "Aug 2024 – Aug 2025",
+        "description": "Built various web apps using a low-code platform. Worked on React front-end for a recruitment platform. Created a custom web scraper to automate data collection."
+    },
+    {
         "position": "Software Developer Intern",
         "company": "SugboDoc Technologies Inc.",
         "date": "Jan 2024 – June 2024",
-        "description": "As an intern, I was given a series of training activities, including creating a chatbot using a third-party large language model (LLM), implementing a clinic tracker using the Google Maps API, and containerizing the built application using Docker, followed by deployment on Amazon Web Services (AWS). Additionally, I was tasked with integrating unstructured data into an existing database, for which I utilized Python."
+        "description": "I contributed to developing a small feature on a SaaS healthcare platform, assisted with testing, and handled processing of large data files for the database."
     },
     {
         "position": "Web Developer Intern",
         "company": "Bureau of Fire Protection Region VII Office",
         "date": "Feb 2023 – July 2023",
-        "description": "I developed a local web system to manage the records of certificates for the Bureau of Fire Protection. For this project, I used the Laravel framework for the development of the system and MySQL as the database."
+        "description": "I developed a local web system to manage the records of certificates for the Bureau of Fire Protection."
     }
 ]
